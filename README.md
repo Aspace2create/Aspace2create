@@ -2,6 +2,7 @@
 - 👀 I’m interested in AIart, Game-Modding, and Animating
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on StreetsOfRogue Mods
+- Looking foreward to also work on StreetsOfRogue2 Mods when available 
 - 📫 How to reach me (here)
 
 <!---
